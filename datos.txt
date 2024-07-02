@@ -1,2 +1,4 @@
 Borja 
 edad:35
+email: borja@borja.com
+direccion: Madrid
